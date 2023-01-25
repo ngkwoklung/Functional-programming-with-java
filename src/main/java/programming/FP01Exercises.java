@@ -1,6 +1,7 @@
 package programming;
 
 import java.util.List;
+import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
 public class FP01Exercises {
